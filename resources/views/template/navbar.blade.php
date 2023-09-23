@@ -17,7 +17,7 @@
                         href="/">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link {{ $active === 'shop' ? 'active' : '' }}" href="/shop">Shop</a>
+                    <a class="nav-link {{ $active === 'shop' ? 'active' : '' }}" href="/shop">Belanja</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle {{ $active === 'lain-lain' ? 'active' : '' }}" href="#"
